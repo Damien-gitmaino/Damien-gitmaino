@@ -66,4 +66,5 @@ Si vous souhaitez découvrir d'autres projets sur lesquels j'ai travaillé ou en
 
 - Adresse e-mail: damien.jd.maillard@gmail.com
 - Numéro de télephone: 07 86 91 92 38
-- LinkedIn: [Votre profil LinkedIn](https://www.linkedin.com/in/damien-maillard-3607441a8/)
+- LinkedIn: [Mon profil LinkedIn](https://www.linkedin.com/in/damien-maillard-3607441a8/)
+- Malt: [Mon profil Malt](https://www.malt.fr/profile/damienmaillard)
