@@ -1,11 +1,30 @@
 # Damien MAILLARD
 
-I am a 22-year-old developer, passionate about technology and constantly looking to improve myself. I specialize in WEB domain: mobile, websites, back-end, database management, software development and system management.
+## 📍 Qui suis-je ?
+
+Hello
+
+Développeur étudiant à Epitech, expert en React Native, React JS, Node Js et PostgreSQL freelance depuis plus de 1 ans, j'ai collaboré sur plusieurs projets Mobile et Web variés. Au cours de ces projets, j'ai assumé divers rôles tels que développeur, designer et chef de projet. Je maîtrise principalement les technologies React Native, React JS, Node JS et SQL.
 
 ## :mortar_board: Formation
 
 - Epitech - Tek5
 - Finacial study (FinTech) - Bachelor - New York
+
+
+## Qu'est-ce que je vous propose ?
+
+- Une vraie expérience d'un dev passionné en perpétuelle auto-formation
+- Un œil de designer, rigoureux sur l'UX/UI
+- Des conseils innovants pour repenser vos apps en React Native et React JS
+- Un report sur mon travail toute les semaine
+
+## 🛎️ Pour quel type de projet suis-je intéressé ?
+
+- Développement Front en React Native, Flutter, React JS, Next JS
+- Développement Back avec NodeJs, NodeTs, Prisma
+- Conception et design d'apps mobiles et web, en mettant l'accent sur l'UX/UI 
+- Gestion et organisation de projets
 
 ## Technical Skills ✔
 
@@ -37,7 +56,14 @@ I am a 22-year-old developer, passionate about technology and constantly looking
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Damien-gitmaino&theme=tokyonight" />
 </p>
 
+## 📍 Localisation
+
+Je suis actuellement sur Lille mais je peux me déplacer.
+
 ## :mailbox: Contact
 
+Si vous souhaitez découvrir d'autres projets sur lesquels j'ai travaillé ou envisager une collaboration, n'hésitez pas à me contacter. Je serai ravi d'échanger avec vous et de vous accompagner dans toutes les phases de votre projet, depuis l'élaboration en passant par le design, le développement jusqu'au déploiement !
+
 - Adresse e-mail: damien.jd.maillard@gmail.com
+- Numéro de télephone: 07 86 91 92 38
 - LinkedIn: [Votre profil LinkedIn](https://www.linkedin.com/in/damien-maillard-3607441a8/)
