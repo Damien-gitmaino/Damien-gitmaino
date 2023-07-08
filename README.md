@@ -8,8 +8,8 @@ Développeur étudiant à Epitech, expert en React Native, React JS, Node Js et 
 
 ## :mortar_board: Formation
 
-- Epitech - Tek5
-- Finacial study (FinTech) - Bachelor - New York
+- EPITECH - European Institute of Technology - Tek5
+- TECHNOLOGY CHALLENGES IN THE FINANCIAL INDUSTRY - Licence - New York
 
 
 ## Qu'est-ce que je vous propose ?
