@@ -1,30 +1,29 @@
 # Damien MAILLARD
 
-## 📍 Qui suis-je ?
+## 📍 Who am I?
 
-Hello
+Hello,
 
-Développeur étudiant à Epitech, expert en React Native, React JS, Node Js et PostgreSQL freelance depuis plus de 1 ans, j'ai collaboré sur plusieurs projets Mobile et Web variés. Au cours de ces projets, j'ai assumé divers rôles tels que développeur, designer et chef de projet. Je maîtrise principalement les technologies React Native, React JS, Node JS et SQL.
+I am an experienced full-stack developer specializing in web, mobile, and fintech solutions. As a freelancer and entrepreneur, I have led and contributed to innovative projects, managing development, architecture, and project coordination. Passionate about cutting-edge technologies, I build scalable, high-performance applications that drive business efficiency.
 
-## :mortar_board: Formation
+## :mortar_board: Education
 
 - EPITECH - European Institute of Technology - Tek5
-- TECHNOLOGY CHALLENGES IN THE FINANCIAL INDUSTRY - Licence - New York
+- TECHNOLOGY CHALLENGES IN THE FINANCIAL INDUSTRY - Bachelor's Degree - New York
 
+## What can I offer you?
 
-## Qu'est-ce que je vous propose ?
+- A passionate developer constantly learning and improving
+- A designer’s eye with a strong focus on UX/UI
+- Innovative advice to rethink your apps using React Native and React JS
+- Weekly reports on my work
 
-- Une vraie expérience d'un dev passionné en perpétuelle auto-formation
-- Un œil de designer, rigoureux sur l'UX/UI
-- Des conseils innovants pour repenser vos apps en React Native et React JS
-- Un report sur mon travail toute les semaine
+## 🛎️ What kind of projects am I interested in?
 
-## 🛎️ Pour quel type de projet suis-je intéressé ?
-
-- Développement Front en React Native, Flutter, React JS, Next JS
-- Développement Back avec NodeJs, NodeTs, Prisma
-- Conception et design d'apps mobiles et web, en mettant l'accent sur l'UX/UI 
-- Gestion et organisation de projets
+- Frontend development with React Native, Flutter, React JS, Next.js
+- Backend development with Node.js, TypeScript, Prisma
+- Mobile and web app design with a focus on UX/UI
+- Project management and organization
 
 ## Technical Skills ✔
 
@@ -32,7 +31,7 @@ Développeur étudiant à Epitech, expert en React Native, React JS, Node Js et 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
-![REACJS](https://img.shields.io/badge/-ReactJs-05122A?logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -56,15 +55,15 @@ Développeur étudiant à Epitech, expert en React Native, React JS, Node Js et 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Damien-gitmaino&theme=tokyonight" />
 </p>
 
-## 📍 Localisation
+## 📍 Location
 
-Je suis actuellement sur Lille mais je peux me déplacer.
+I am currently based in Lille, but I am available for travel.
 
 ## :mailbox: Contact
 
-Si vous souhaitez découvrir d'autres projets sur lesquels j'ai travaillé ou envisager une collaboration, n'hésitez pas à me contacter. Je serai ravi d'échanger avec vous et de vous accompagner dans toutes les phases de votre projet, depuis l'élaboration en passant par le design, le développement jusqu'au déploiement !
+If you would like to check out other projects I’ve worked on or discuss a potential collaboration, feel free to contact me. I’d be happy to chat and support you through all phases of your project, from planning and design to development and deployment!
 
-- Adresse e-mail: damien.jd.maillard@gmail.com
-- Numéro de télephone: 07 86 91 92 38
-- LinkedIn: [Mon profil LinkedIn](https://www.linkedin.com/in/damien-maillard-3607441a8/)
-- Malt: [Mon profil Malt](https://www.malt.fr/profile/damienmaillard)
+- Email: damien.jd.maillard@gmail.com
+- Phone: +33 7 86 91 92 38
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/damien-maillard-3607441a8/)
+- Malt: [My Malt Profile](https://www.malt.fr/profile/damienmaillard)
