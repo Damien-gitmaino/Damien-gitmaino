@@ -63,7 +63,7 @@ I am currently based in Lille, but I am available for travel.
 
 If you would like to check out other projects I’ve worked on or discuss a potential collaboration, feel free to contact me. I’d be happy to chat and support you through all phases of your project, from planning and design to development and deployment!
 
-- Email: damien.jd.maillard@gmail.com
-- Phone: +33 7 86 91 92 38
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/damien-maillard-3607441a8/)
+- Email: damien.maillard.pro@gmail.com
+- Phone: +1 (929) 717-6598
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/damien-maillard-3a5499309/)
 - Malt: [My Malt Profile](https://www.malt.fr/profile/damienmaillard)
